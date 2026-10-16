@@ -1,0 +1,6 @@
+{
+  "name": "ProxFlow - Interfaz Web Proxy",
+  "description": "Interfaz moderna, oscura y minimalista inspirada en CroxyProxy para navegar mediante el servicio seguro de ProxFree.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
